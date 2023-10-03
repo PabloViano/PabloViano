@@ -28,17 +28,9 @@
 <br/>
 
 <a href="https://github.com/syedammar111">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=syedammar111&theme=buefy&show_icons=true" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedammar111&theme=buefy&layout=compact" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=PabloViano&theme=buefy&show_icons=true" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloViano&theme=buefy&layout=compact" />
 </a>
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-<a href="https://www.syedammarilyas.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.syedammarilyas.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/syedammarilyas/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-syedammarilyas-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/syedammarilyas/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-syedammarilyas-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:syedammarilyas@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-syedammarilyas@hotmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
