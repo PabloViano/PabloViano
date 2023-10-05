@@ -28,7 +28,7 @@
 <br/>
 
 <a href="https://github.com/PabloViano">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=PabloViano&theme=buefy&show_icons=true" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=PabloViano&theme=transparent&show_icons=true" />
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloViano&theme=buefy&layout=compact" />
 </a>
 
